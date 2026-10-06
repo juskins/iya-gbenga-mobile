@@ -35,6 +35,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "89a93eac-1a55-4add-84e9-1a9bf5dc69ef"
+      }
+    },
+    "owner": "tunde012"
   }
 }
